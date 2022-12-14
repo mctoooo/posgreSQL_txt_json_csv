@@ -1,0 +1,5 @@
+prod_name,pk,varchar,,potato.chocolade.peper,paint,qiwi,backwheat
+prod_type,pk,varchar,,Iran,Russ,black,black,Turcey,fresh harvest
+prod_amt,,text,,300kg,50,5kg,80L,30kg,200kg
+prod prod_price,,int,NOTNUL,39,65,234,43,78,900
+prod_discount,,int,,0,30,12,5,3,7
